@@ -17,7 +17,7 @@ Data is expensive and time consuming to obtain. Therefore, estimations of traini
 
 * This presentation demonstrats how learning curves are one technique for predicting this size of a training data set.
 
-* Consider using this technique during product development for applications and devices from which little data is available.
+* Consider using this technique during product development for applications and devices from which little data is available...
 
 ---
 ## Slide 2 - Linear Discriminant Analysis Learning Curve Example
