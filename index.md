@@ -28,7 +28,7 @@ In this presentation, we explore the Learning Curve concept using the Iris data 
 Table. Subset of the Iris data set showing the four features and the three classes of species that the LDA algorithm will predict.
 
 <!-- html table generated in R 3.2.3 by xtable 1.8-2 package -->
-<!-- Thu Mar 17 13:28:13 2016 -->
+<!-- Sun Mar 20 17:04:57 2016 -->
 <table border=1>
 <tr> <th>  </th> <th> Sepal.Length </th> <th> Sepal.Width </th> <th> Petal.Length </th> <th> Petal.Width </th> <th> Species </th>  </tr>
   <tr> <td align="right"> 1 </td> <td align="right"> 5.10 </td> <td align="right"> 3.50 </td> <td align="right"> 1.40 </td> <td align="right"> 0.20 </td> <td> setosa </td> </tr>
